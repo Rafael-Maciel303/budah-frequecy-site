@@ -1,0 +1,6 @@
+{
+  "name": "Budah Frequency",
+  "description": "Budah Frequency - Collection of 12 Solfeggio and healing frequency MP3 audio tracks for relaxation, meditation, and calm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
